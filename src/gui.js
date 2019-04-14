@@ -87,7 +87,7 @@ var gui = (function() {
       notes.style.cssText =
         "position:absolute; top:80px; left:20px; pointer-events:none; width:200px;";
       notes.innerHTML =
-        "A microscopic artificial air filter device has been installed in this human. The human also has genetically-engineered immune cells that protect it from a variety of different illnesses. <br/><br/> As seen in the model, this human has darker skin, no hair, and is shorter and leaner than present-day homo sapiens. These adaptations will prove to be of great use 1,000 years from now. ";
+        "A microscopic artificial air filter device has been installed in this human. The human also has genetically-engineered immune cells that protect it from a variety of different illnesses. <br/><br/> As seen in the model, this human has darker skin, no hair, and is shorter and leaner than present-day homo sapiens. These adaptations will prove to be of great use 1,000 years from now in a world threatened by higher temepratures, dangerous diseases, and toxic chemicals as a result of climate change. ";
 
       mainMenu = document.createElement("div");
       mainMenu.style.cssText =
