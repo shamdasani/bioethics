@@ -1,0 +1,21 @@
+[  
+    "src/variables.js",
+    "src/libs/three.js",
+    "src/libs/sea3d.js",
+    "src/libs/tween.js",
+    "src/libs/uil.js",
+    "src/libs/capture/CCapture.js",
+    "src/libs/capture/Whammy.js",
+    "src/libs/capture/download.js",
+    "src/controls/OrbitControls.js",
+    "src/loaders/BVHLoader.js",
+    "src/loaders/BVHLoaderAdd.js",
+    "src/math.js",
+    "src/pool.js",
+    "src/shader.js",
+    "src/skeleton.js",
+    "src/Model.js",
+    "src/view.js",
+    "src/gui.js",
+    "src/main.js"
+]
